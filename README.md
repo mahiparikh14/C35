@@ -1,2 +1,2 @@
-# C35
-ball synchronization 
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
